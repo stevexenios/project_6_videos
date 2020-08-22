@@ -8,4 +8,3 @@ This is a project I created while learning react. It entails using Youtube API t
 ![](images/screenshot.png)
 
 
-**[LinkedIn](www.linkedin.com/in/stevegmwangi)**
